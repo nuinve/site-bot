@@ -30,7 +30,7 @@ main {
     font-size: 70px;
     font-family: Calibri, 'Trebuchet MS', sans-serif;
     font-weight: lighter;
-    flex: 1 1 60%; /* Adapta o espaço que o elemento ocupa */
+    flex: 1 1 60%; 
 }
 
 .banner img {
@@ -42,7 +42,7 @@ main {
     margin: 10px;
     background-color: rgb(234, 245, 247);
     border-radius: 200px;
-    flex: 1 1 40%; /* Adapta o espaço que o elemento ocupa */
+    flex: 1 1 40%; 
 }
 
 .container {
